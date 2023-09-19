@@ -1,9 +1,12 @@
-
+## Authers
+1. Yegon
+2. Griffins
+---
 ## Requirements
 
 - Python 3.8 and above.
 - The `requests` library (install using `pip install requests` if not already installed)
-
+----
 ## Usage
 
 1. Clone or download this repository to your local machine.
@@ -14,6 +17,8 @@
 3. Run the script by executing the following command:
 #### python3 api.py
 
+----
+## Codes Description:
 ----
 ### import requests 
 This line imports the requests library for making HTTP requests to interact with web services and APIs.
